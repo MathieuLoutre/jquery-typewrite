@@ -1,0 +1,31 @@
+{
+	"name": "typewrite",
+	"title": "jQuery Typewrite",
+	"description": "Type character by character the content of an HTML element.",
+	"keywords": [
+		"jquery",
+		"type",
+		"typewrite",
+		"typewriter",
+		"plugins"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Mathieu Triay",
+		"email": "mathieu.triay@gmail.com",
+		"url": "https://github.com/MathieuLoutre"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/MathieuLoutre/jquery-typewrite/master/LICENSE"
+		}
+	],
+	"bugs": "https://github.com/MathieuLoutre/jquery-typewrite/issues",
+	"homepage": "http://github.com/MathieuLoutre/jquery-typewrite/",
+	"docs": "http://github.com/MathieuLoutre/jquery-typewrite#readme",
+	"download": "http://github.com/MathieuLoutre/jquery-typewrite/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}

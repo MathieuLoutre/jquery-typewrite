@@ -1,0 +1,19 @@
+{
+  "name": "jquery-typewrite",
+  "title": "jQuery Typewrite",
+  "description": "Type character by character the content of an HTML element.",
+  "author": "Mathieu Triay",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/MathieuLoutre/jquery-typewrite.git"
+  },
+  "homepage": "http://github.com/MathieuLoutre/jquery-typewrite/",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-coffee": "~0.9.0"
+  }
+}
