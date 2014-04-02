@@ -7,6 +7,12 @@
 	],
 	"description": "Type character by character the content of an HTML element.",
 	"main": ["dist/jquery.typewrite.min.js", "dist/jquery.typewrite.js"],
+	"ignore": [
+		"src",
+		".*",
+		"Gruntfile.js",
+		"example"
+	],
 	"keywords": [
 		"jquery",
 		"plugin",
