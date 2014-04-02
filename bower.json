@@ -6,7 +6,7 @@
 		"Mathieu Triay <mathieu.triay@gmail.com>"
 	],
 	"description": "Type character by character the content of an HTML element.",
-	"main": ["src/jquery.typewrite.min.js", "src/jquery.typewrite.js"],
+	"main": ["dist/jquery.typewrite.min.js", "dist/jquery.typewrite.js"],
 	"keywords": [
 		"jquery",
 		"plugin",
